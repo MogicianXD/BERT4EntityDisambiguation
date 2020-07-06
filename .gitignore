@@ -1,0 +1,8 @@
+model/*
+**/__pycache__
+/data/*.csv
+/data/*.json
+checkpoints/*
+use_bert.py
+.idea
+/data/setting.py
